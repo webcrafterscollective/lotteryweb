@@ -1,0 +1,15 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "Node.js Express server for serving Lottery web app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'No build steps required for the server'",
+    "deploy": "npm install && npm run build"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "serve-static": "^1.15.0"
+  }
+}
