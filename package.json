@@ -1,7 +1,7 @@
 {
   "name": "express-server",
   "version": "1.0.0",
-  "description": "Node.js Express server for serving Lottery web app",
+  "description": "Node.js Express server for serving Lotterydeploy web app",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
